@@ -1,5 +1,4 @@
-Hello world!
-Hello Tyler!
+#Start Chapter 1
 
 #Start Chapter 2
 
